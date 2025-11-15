@@ -5,7 +5,7 @@ Convert any blog article into an engaging podcast episode using AI! This project
 ---
 
 ## 🚀 Live Demo
-Check out the live app: [Blog-to-Podcast](https://blog-to-podcast.streamlit.app/)
+Check out the live app: [Blog-to-Podcast]([https://blog-to-podcast.streamlit.app/](https://blog-to-podcast-agent.streamlit.app/))
 
 ---
 
